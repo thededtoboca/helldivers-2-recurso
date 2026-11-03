@@ -148,4 +148,4 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Helldivers 2 · Actualizado 2026-11-02 · Compartido bajo licencia MIT*
+*Helldivers 2 · Actualizado 2026-11-03 · Compartido bajo licencia MIT*
